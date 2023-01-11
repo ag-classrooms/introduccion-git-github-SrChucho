@@ -16,6 +16,6 @@ Bayesian Modelling Course syllabus
 - Modelación predictiva probabilística.
 
 ### 4. To-do list for starting the course 
-[ ] Review git and githug
-[ ] Install environment
-[ ] Accept github-classrom assignments
+- [ ] Review git and githug
+- [ ] Install environment
+- [ ] Accept github-classrom assignments
