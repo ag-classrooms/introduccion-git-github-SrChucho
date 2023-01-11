@@ -1,0 +1,16 @@
+# This is an example of how to use Markdown
+## 1. Text styling
+
+
+
+## 2. Adding links
+Link to somebody in [Twitter](https://twitter.com/domenicogiannon)
+
+Adding an image on the web ![Bayes](https://marvel-b1-cdn.bc0a.com/f00000000100045/www.elmhurst.edu/wp-content/uploads/2019/08/amazing-thomas-bayes-illustration.jpg)
+
+
+## 3. Lists
+Bayesian Modelling Course syllabus
+- Cómputo probabilístico.
+- Flujo de trabajo Bayesiano.
+- Modelación predictiva probabilística.
