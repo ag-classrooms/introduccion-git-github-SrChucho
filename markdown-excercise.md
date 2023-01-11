@@ -19,3 +19,6 @@ Bayesian Modelling Course syllabus
 - [ ] Review git and githug
 - [ ] Install environment
 - [ ] Accept github-classrom assignments
+
+
+### 5. Coding format `#ffffff`
